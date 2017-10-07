@@ -1,0 +1,36 @@
+=== Started 2017-04-29T12-54-02-624 ===
+[INFO ][12:54:02] 419 bad words loaded
+[WARN ][12:54:02] User account "Local Administrator" disabled
+[WARN ][12:54:02] User account "Local Moderator" disabled
+[WARN ][12:54:02] User account "Local User" disabled
+[INFO ][12:54:02] 0 user records loaded.
+[INFO ][12:54:02] 0 IP ban records loaded.
+[INFO ][12:54:02] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:54:02] WebSocket: ws
+[INFO ][12:54:03] Started stats server on port 88
+[INFO ][12:54:03] Listening on port 8888
+[INFO ][12:54:03] Current game mode is Free For All
+[NONE ][12:54:03]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][12:54:27] CONNECTED 127.0.0.1:49531, origin: "http://agar.io"
+[NONE ][12:54:56] >minion 1 100 DYN CLAN BEST
+[NONE ][12:54:56] Added 100 minions for ✧ƊƳƝ✧ĐƳNΔϻσ YT
+[NONE ][12:58:23] >mass 1 10000
+[NONE ][12:58:23] Set mass of ✧ƊƳƝ✧ĐƳNΔϻσ YT to 10000.000
+[NONE ][12:58:38] >reset
+[WARN ][12:58:38] Removed 1609 nodes
+[NONE ][12:59:01] >mass 1 50
+[NONE ][12:59:01] Set mass of ✧ƊƳƝ✧ĐƳNΔϻσ YT to 50.000
+[NONE ][13:00:51] >minion 1 100
+[NONE ][13:00:51] Added 100 minions for ✧ƊƳƝ✧ĐƳNΔϻσ YT
+[NONE ][13:01:32] >mass 1 1000
+[NONE ][13:01:32] Set mass of ✧ƊƳƝ✧ĐƳNΔϻσ YT to 1000.000
+[NONE ][13:03:07] >skin 1 banana
+[WARN ][13:03:07] Player is alive, skin will not be applied to existing cells!
+[NONE ][13:03:07] Player "✧ƊƳƝ✧ĐƳNΔϻσ YT"'s skin is changed to banana
+[NONE ][13:03:17] >kill 1
+[NONE ][13:03:17] Killed ✧ƊƳƝ✧ĐƳNΔϻσ YT and removed 32 cells

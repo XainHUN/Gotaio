@@ -1,0 +1,41 @@
+=== Started 2017-04-28T23-16-22-416 ===
+[INFO ][23:16:22] 419 bad words loaded
+[WARN ][23:16:22] User account "Local Administrator" disabled
+[WARN ][23:16:22] User account "Local Moderator" disabled
+[WARN ][23:16:22] User account "Local User" disabled
+[INFO ][23:16:22] 0 user records loaded.
+[INFO ][23:16:22] 0 IP ban records loaded.
+[INFO ][23:16:22] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][23:16:22] WebSocket: ws
+[INFO ][23:16:22] Started stats server on port 88
+[INFO ][23:16:22] Listening on port 8888
+[INFO ][23:16:22] Current game mode is Free For All
+[NONE ][23:16:22]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][23:16:40] CONNECTED 25.56.159.206:53815, origin: "http://agar.io"
+[NONE ][23:16:56] >minion 1 100 DYN CLAn
+[NONE ][23:16:56] Added 100 minions for ✧ƊƳƝ✧ĐƳNΔϻσ YT
+[NONE ][23:17:47] >skin
+[WARN ][23:17:47] Please specify a valid player ID and skin name!
+[NONE ][23:17:53] >skin 1 chupacabra
+[NONE ][23:17:53] Player "✧ƊƳƝ✧ĐƳNΔϻσ YT"'s skin is changed to chupacabra
+[NONE ][23:18:06] >skin 1 kraken
+[WARN ][23:18:06] Player is alive, skin will not be applied to existing cells!
+[NONE ][23:18:06] Player "✧ƊƳƝ✧ĐƳNΔϻσ YT"'s skin is changed to kraken
+[NONE ][23:18:17] >skin 1 apple
+[WARN ][23:18:17] Player is alive, skin will not be applied to existing cells!
+[NONE ][23:18:17] Player "✧ƊƳƝ✧ĐƳNΔϻσ YT"'s skin is changed to apple
+[NONE ][23:21:35] >mass 1 1000
+[NONE ][23:21:35] Set mass of ✧ƊƳƝ✧ĐƳNΔϻσ YT to 1000.000
+[NONE ][23:21:44] >skin 1 55
+[WARN ][23:21:44] Player is alive, skin will not be applied to existing cells!
+[NONE ][23:21:44] Player "✧ƊƳƝ✧ĐƳNΔϻσ YT"'s skin is changed to 55
+[NONE ][23:28:31] DISCONNECTED 25.56.159.206:53815, code: 1000, reason: "Connection timeout", name: "✧ƊƳƝ✧ĐƳNΔϻσ YT"
+[NONE ][23:28:32] CONNECTED 25.56.159.206:53843, origin: "http://agar.io"
+[NONE ][23:28:36] DISCONNECTED 25.56.159.206:53843, code: 1000, reason: "", name: ""
+[NONE ][23:28:37] CONNECTED 25.56.159.206:53845, origin: "http://agar.io"
+[NONE ][23:30:20] DISCONNECTED 25.56.159.206:53845, code: 1006, reason: "", name: ""

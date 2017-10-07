@@ -1,0 +1,21 @@
+=== Started 2017-05-10T01-42-35-779 ===
+[INFO ][01:42:35] 419 bad words loaded
+[WARN ][01:42:35] User account "Local Administrator" disabled
+[WARN ][01:42:35] User account "Local Moderator" disabled
+[WARN ][01:42:35] User account "Local User" disabled
+[INFO ][01:42:35] 0 user records loaded.
+[INFO ][01:42:35] 0 IP ban records loaded.
+[INFO ][01:42:35] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][01:42:35] WebSocket: ws
+[INFO ][01:42:36] Started stats server on port 88
+[INFO ][01:42:36] Listening on port 443
+[INFO ][01:42:36] Current game mode is Free For All
+[NONE ][01:42:36]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][01:43:05] CONNECTED 127.0.0.1:64034, origin: "http://agar.io"
+[NONE ][01:43:09] DISCONNECTED 127.0.0.1:64034, code: 1000, reason: "", name: ""
+[NONE ][01:43:09] CONNECTED 127.0.0.1:64038, origin: "http://agar.io"
